@@ -1,0 +1,2 @@
+my-prs:
+  query: is:pr is:open repo:owner/repository
